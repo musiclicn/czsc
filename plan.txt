@@ -16,3 +16,7 @@ Next: apply 2rd buy/ sell signal
 1. figure out where the signals are in the html
 2. use the signals to backtest using vectorbt
 3. upload https://assets.pyecharts.org/assets/v5/echarts.min.js
+
+Signal
+* Write bi end signal using two 3K bars overlapping and reverse FVG show up
+* use most recent 5-7 bi bottom and top to predict trend (adding bi end signal)
