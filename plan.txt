@@ -25,3 +25,17 @@ Signal
 * use MA=200 to determine overall trend - use it as Signal 顺大逆小
 * use 3 and 15 min two time frame to generate Signal 
 * use most recent 5-7 bi bottom and top to predict trend (adding bi end signal)
+
+Signal:  eg. 3 buy/sell
+	is_on: True/ False
+	value:
+
+Indicator:  MA200, RSI, price above MA200
+	value:
+	is_positive():
+		return vlaue > 0
+
+
+when Indicator1 MA200 is up and Indicator2 price above MA200,
+use Signal 3 buy to long
+exit when up bi ends (has reverse FVG)
