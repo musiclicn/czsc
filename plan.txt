@@ -22,5 +22,6 @@ Next: apply 2rd buy/ sell signal
 
 Signal
 * Write bi end signal using two 3K bars overlapping and reverse FVG show up
-* use MA=200 to determine overall trend - use it as Signal
+* use MA=200 to determine overall trend - use it as Signal 顺大逆小
+* use 3 and 15 min two time frame to generate Signal 
 * use most recent 5-7 bi bottom and top to predict trend (adding bi end signal)
