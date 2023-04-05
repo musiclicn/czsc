@@ -1,3 +1,6 @@
+backtesting library
+https://www.qmr.ai/best-backtesting-library-for-python/
+
 2023/4/4
 Draw third buy in chart
 use cxt_third_buy_V230228 Signal and draw it in chart
