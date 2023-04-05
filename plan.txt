@@ -15,4 +15,4 @@ Next: apply 2rd buy/ sell signal
 2023/4/5
 1. figure out where the signals are in the html
 2. use the signals to backtest using vectorbt
-3. upload tqqq.csv into Github
+3. upload https://assets.pyecharts.org/assets/v5/echarts.min.js
